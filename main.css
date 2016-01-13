@@ -182,13 +182,15 @@ body {
 }
 
 #disqus_thread {
-	width: 100%;
+	width: 80%;
 	margin: 0 auto;
 	height: 40px;
 	display: block;
 	float: left;
 	position: absolute;
 	top: 500px;
+	margin-left: 10%;
+	margin-right: 10%;
 
 }
 
